@@ -1,1 +1,1 @@
-javascript:if(document.body.contentEditable !== 'true') {    document.body.contentEditable = 'true'; document.designMode='on'; void 0} else {    document.body.contentEditable = 'false'; document.designMode='off'; void 0}
+javascript:/*found by BigameRad8 on github*/if(document.body.contentEditable !== 'true') {    document.body.contentEditable = 'true'; document.designMode='on'; void 0} else {    document.body.contentEditable = 'false'; document.designMode='off'; void 0}
